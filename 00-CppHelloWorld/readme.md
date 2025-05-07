@@ -6,7 +6,7 @@
 <p>Apellido: Vallejos</p>
 <p>Nombre: Emanuel</p>
 <p>Número y título del trabajo: 00-CppHelloWorld</p>
-<p>Transcripción del enunciado:</p>
+<p>Transcripción del enunciado:</p> Registrar una cuenta en GitHub, crear un repositorio público para la materia, informar el compilador a utilizar, publicar un programa que genere una salida en texto "Hello World" y armar un equipo de trabajo.
 <p>Hipótesis de trabajo que surgen luego de leer el enunciado:</p>
 <p>Compilador seleccionado: Embarcadero Dev-C++</p>
 <p>Versión: 6.3</p>
